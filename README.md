@@ -8,5 +8,7 @@ DataJournalism
 
 Things to do…
 
-Issue tracker kanban board:
-[d2s/DataJournalism HuBoard](https://huboard.com/d2s/DataJournalism/)
+
+### Throughput Graph
+
+[![Throughput Graph](https://graphs.waffle.io/d2s/datajournalism/throughput.svg)](https://waffle.io/d2s/datajournalism/metrics)

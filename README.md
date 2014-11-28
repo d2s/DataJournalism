@@ -2,7 +2,6 @@
 [![Test Coverage](https://codeclimate.com/github/d2s/DataJournalism/badges/coverage.svg)](https://codeclimate.com/github/d2s/DataJournalism)
 [![Stories in Ready](https://badge.waffle.io/d2s/DataJournalism.png?label=ready&title=Ready)](https://waffle.io/d2s/DataJournalism)
 [![Stories in In Progress](https://badge.waffle.io/d2s/DataJournalism.png?'label=In%20Progress&title=In%20Progress)](https://waffle.io/d2s/DataJournalism)
-[![Stories in Done](https://badge.waffle.io/d2s/DataJournalism.png?'label=done&title=Done)](https://waffle.io/d2s/DataJournalism)
 
 
 

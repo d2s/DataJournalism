@@ -1,1 +1,1 @@
-Copyright 2014 Daniel Schildt
+Copyright 2014–2015 Daniel Schildt
